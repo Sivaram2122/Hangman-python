@@ -25,5 +25,5 @@ To play this game on your local machine, make sure you have **Python 3** install
 python hangman.py
 ```
 ## 👤 Author
-- Created by [R M Sivaram]
+- Created by R M Sivaram
 - This is my first step into the world of Python programming! Feel free to check out the code and leave feedback.
