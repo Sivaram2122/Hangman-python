@@ -9,7 +9,7 @@ word_list = hangman_words.word_list
 logo = hangman_art.logo
 print(logo)
 chosen_word = random.choice(word_list)
-print(chosen_word)
+#print(chosen_word) (If you want to check this code, go ahead and uncomment this line!)
 guessed_letters = []
 placeholder = ""
 word_length = len(chosen_word)
